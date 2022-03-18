@@ -1,0 +1,96 @@
+{
+  "livetv": [
+     {
+      "id": 0,
+      "name": "Mahabohdi",
+      "imageUrl": "https://github.com/koarkarphyoe/img/blob/main/channel%20logo.png?raw=true",
+      "streamUrl": "https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/playlist.m3u8"
+    },
+    {
+      "id": 1,
+      "name": "DVB",
+      "imageUrl": "https://github.com/koarkarphyoe/img/blob/main/channel%20logo.png?raw=true",
+      "streamUrl": "https://www.dailymotion.com/cdn/live/video/x852wwl.m3u8?sec=9EBE6uR22QqA30f945-O_WLpezcMdnfSTBexkQS_-K_3Ia4e1TdkZR5ka4x5cE2Enu_Wf-YVL0K7LXOENAX9aQ&dmTs=160850&dmV1st=362A431395352AC8E0BD24E4385D337C"
+    },
+    {
+      "id": 2,
+      "name": "MNTV",
+      "imageUrl": "https://github.com/koarkarphyoe/img/blob/main/channel%20logo.png?raw=true",
+      "streamUrl": "https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_hi/index.m3u8"
+    },
+    {
+      "id": 3,
+      "name": "MITV",
+      "imageUrl": "https://github.com/koarkarphyoe/img/blob/main/channel%20logo.png?raw=true",
+      "streamUrl": "https://playback2.akamaized.net/streams/7063221_9340397_lsiuruavepkdugqu1fp_1/master.m3u8?dw=14400&hdnts=exp=1647247803~acl=/streams/7063221_9340397_lsiuruavepkdugqu1fp_1/master.m3u8*~hmac=5180d87b7422be993e93fdc0127dec0738e6b5955ed352d2739fae994c5d0397"
+    },
+    {
+      "id": 4,
+      "name": "Channel K",
+      "imageUrl": "https://github.com/koarkarphyoe/img/blob/main/channel%20logo.png?raw=true",
+      "streamUrl": "https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8"
+    },
+    {
+      "id": 5,
+      "name": "MV Tv",
+      "imageUrl": "https://github.com/koarkarphyoe/img/blob/main/channel%20logo.png?raw=true",
+      "streamUrl": "https://edge6a.v2h-cdn.com/appt7/MVM.stream_720p/playlist.m3u8"
+    },
+    {
+      "id": 6,
+      "name": "EMTV",
+      "imageUrl": "https://github.com/koarkarphyoe/img/blob/main/channel%20logo.png?raw=true",
+      "streamUrl": "https://bcovlive-a.akamaihd.net/4805ddb8014d4ea5a938a8bf0e999416/ap-southeast-2/6267995011001/playlist.m3u8"
+    },
+    {
+      "id": 7,
+      "name": "Mahar",
+      "imageUrl": "https://github.com/koarkarphyoe/img/blob/main/channel%20logo.png?raw=true",
+      "streamUrl": "https://tv.mahar.live/mahar/website.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNC8yMDIyIDg6MzQ6NTggQU0maGFzaF92YWx1ZT1EQ0grU3VjV25WdGpTeS9aSXh3THFRPT0mdmFsaWRtaW51dGVzPTI1JnN0cm1fbGVuPTIw"
+    },
+    {
+      "id": 8,
+      "name": "UMM TV",
+      "imageUrl": "https://github.com/koarkarphyoe/img/blob/main/channel%20logo.png?raw=true",
+      "streamUrl": "https://symc-cdn.violin.co.th/madoit/timetv/playlist.m3u8"
+    },
+    {
+      "id": 9,
+      "name": "Saradee 99",
+      "imageUrl": "https://github.com/koarkarphyoe/img/blob/main/channel%20logo.png?raw=true",
+      "streamUrl": "https://61022bdc19cd4.streamlock.net/edgelivepsi/PSIHD.stream_720p/playlist.m3u8"
+    },
+    {
+      "id": 10,
+      "name": "ThaiTV 5",
+      "imageUrl": "https://github.com/koarkarphyoe/img/blob/main/channel%20logo.png?raw=true",
+      "streamUrl": "http://110.170.117.27:1935/apptv5hd1live/vdo-tv5hd1/playlist.m3u8"
+    },
+    {
+      "id": 11,
+      "name": "NMXLive",
+      "imageUrl": "https://github.com/koarkarphyoe/img/blob/main/channel%20logo.png?raw=true",
+      "streamUrl": "https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8"
+    },
+    {
+      "id": 12,
+      "name": "NBT Bangkok",
+      "imageUrl": "https://github.com/koarkarphyoe/img/blob/main/channel%20logo.png?raw=true",
+      "streamUrl": "http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8"
+    }
+    ,
+    {
+      "id": 13,
+      "name": "ALTV",
+      "imageUrl": "https://github.com/koarkarphyoe/img/blob/main/channel%20logo.png?raw=true",
+      "streamUrl": "https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8"
+    }
+    ,
+    {
+      "id": 14,
+      "name": "ThairathTV32",
+      "imageUrl": "https://github.com/koarkarphyoe/img/blob/main/channel%20logo.png?raw=true",
+      "streamUrl": "https://live.thairath.co.th/trtv2/playlist.m3u8"
+    }
+  ]
+}
