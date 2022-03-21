@@ -2,9 +2,9 @@
   "liveradio": [
      {
       "id": 0,
-      "name": "Mahabohdi",
+      "name": "BBC Asia ISML",
       "imageUrl": "https://github.com/koarkarphyoe/img/blob/main/channel%20logo.png?raw=true",
-      "streamUrl": "https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/playlist.m3u8"
+      "streamUrl": "https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_asian_network/bbc_asian_network.isml/bbc_asian_network-audio%3d48000.m3u8"
     },
     {
       "id": 1,
