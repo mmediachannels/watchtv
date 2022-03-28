@@ -97,6 +97,12 @@
       "name": "ThairathTV15",
       "imageUrl": "https://github.com/koarkarphyoe/img/blob/main/channel%20logo.png?raw=true",
       "streamUrl": "https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_asian_network/bbc_asian_network.isml/bbc_asian_network-audio%3d48000.m3u8"
+    },
+    {
+      "id": 16,
+      "name": "ThairathTV16",
+      "imageUrl": "https://github.com/koarkarphyoe/img/blob/main/channel%20logo.png?raw=true",
+      "streamUrl": "https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_asian_network/bbc_asian_network.isml/bbc_asian_network-audio%3d48000.m3u8"
     }
   ]
 }
