@@ -10,7 +10,7 @@
       "id": 1,
       "name": "DVB",
       "imageUrl": "https://github.com/koarkarphyoe/img/blob/main/channel%20logo.png?raw=true",
-      "streamUrl": "https://stream-02.sg1.dailymotion.com/sec(kBDwkJsL9-oSpBjjjrqeeFQi_kmB2h2Hsykd258WzSk)/dm/3/x852wwl/s/live-0.m3u8#cell=lsg1"
+      "streamUrl": "https://stream-04.sg1.dailymotion.com/sec(kBDwkJsL9-oSpBjjjrqeeCV2CGEz3n7GDFdWt_jqpWc)/dm/3/x852wwl/s/live-1.m3u8#cell=lsg1"
     },
     {
       "id": 2,
@@ -38,9 +38,9 @@
     },
     {
       "id": 6,
-      "name": "EMTV",
+      "name": "HBO +",
       "imageUrl": "https://github.com/koarkarphyoe/img/blob/main/channel%20logo.png?raw=true",
-      "streamUrl": "https://bcovlive-a.akamaihd.net/4805ddb8014d4ea5a938a8bf0e999416/ap-southeast-2/6267995011001/playlist.m3u8"
+      "streamUrl": "http://189.91.128.146:4444/udp/227.10.20.156:1234"
     },
     {
       "id": 7,
@@ -50,47 +50,47 @@
     },
     {
       "id": 8,
-      "name": "UMM TV",
+      "name": "HBO Family",
       "imageUrl": "https://github.com/koarkarphyoe/img/blob/main/channel%20logo.png?raw=true",
-      "streamUrl": "https://symc-cdn.violin.co.th/madoit/timetv/playlist.m3u8"
+      "streamUrl": "http://189.91.128.146:4444/udp/227.10.20.157:1234"
     },
     {
       "id": 9,
-      "name": "Saradee 99",
+      "name": "HBO Signature",
       "imageUrl": "https://github.com/koarkarphyoe/img/blob/main/channel%20logo.png?raw=true",
-      "streamUrl": "https://61022bdc19cd4.streamlock.net/edgelivepsi/PSIHD.stream_720p/playlist.m3u8"
+      "streamUrl": "http://189.91.128.146:4444/udp/227.10.20.158:1234"
     },
     {
       "id": 10,
-      "name": "ThaiTV 5",
+      "name": "ESPN2",
       "imageUrl": "https://github.com/koarkarphyoe/img/blob/main/channel%20logo.png?raw=true",
-      "streamUrl": "http://110.170.117.27:1935/apptv5hd1live/vdo-tv5hd1/playlist.m3u8"
+      "streamUrl": "http://189.91.128.146:4444/udp/227.10.20.152:1234"
     },
     {
       "id": 11,
-      "name": "NMXLive",
+      "name": "ESPN",
       "imageUrl": "https://github.com/koarkarphyoe/img/blob/main/channel%20logo.png?raw=true",
-      "streamUrl": "https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8"
+      "streamUrl": "http://189.91.128.146:4444/udp/227.10.20.153:1234"
     },
     {
       "id": 12,
-      "name": "NBT Bangkok",
+      "name": "DiscoveryTurbo",
       "imageUrl": "https://github.com/koarkarphyoe/img/blob/main/channel%20logo.png?raw=true",
-      "streamUrl": "http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8"
+      "streamUrl": "http://189.91.128.146:4444/udp/227.10.20.82:1234"
     }
     ,
     {
       "id": 13,
-      "name": "ALTV",
+      "name": "DiscoveryScience",
       "imageUrl": "https://github.com/koarkarphyoe/img/blob/main/channel%20logo.png?raw=true",
-      "streamUrl": "https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8"
+      "streamUrl": "http://189.91.128.146:4444/udp/227.10.20.92:1234"
     }
     ,
     {
       "id": 14,
-      "name": "ThairathTV32",
+      "name": "AnimalPlanet",
       "imageUrl": "https://github.com/koarkarphyoe/img/blob/main/channel%20logo.png?raw=true",
-      "streamUrl": "https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_asian_network/bbc_asian_network.isml/bbc_asian_network-audio%3d48000.m3u8"
+      "streamUrl": "http://189.91.128.146:4444/udp/227.10.20.118:1234"
     },
     {
       "id": 15,
