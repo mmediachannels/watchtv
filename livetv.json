@@ -2,113 +2,75 @@
   "livetv": [
      {
       "id": 0,
-      "name": "Mahabohdi",
-      "imageUrl": "https://github.com/koarkarphyoe/img/blob/main/channel%20logo.png?raw=true",
-      "streamUrl": "https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/playlist.m3u8"
+      "name": "BBE",
+      "imageUrl": "https://github.com/mmediachannels/icon/blob/main/logo.png?raw=true",
+      "streamUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4"
     },
     {
       "id": 1,
-      "name": "DVB",
-      "imageUrl": "https://github.com/koarkarphyoe/img/blob/main/channel%20logo.png?raw=true",
-      "streamUrl": "https://stream-04.sg1.dailymotion.com/sec(kBDwkJsL9-oSpBjjjrqeeCV2CGEz3n7GDFdWt_jqpWc)/dm/3/x852wwl/s/live-1.m3u8#cell=lsg1"
+      "name": "BEE",
+      "imageUrl": "https://github.com/mmediachannels/icon/blob/main/logo.png?raw=true",
+      "streamUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4"
     },
     {
       "id": 2,
-      "name": "MNTV",
-      "imageUrl": "https://github.com/koarkarphyoe/img/blob/main/channel%20logo.png?raw=true",
-      "streamUrl": "https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_hi/index.m3u8"
+      "name": "BEE",
+      "imageUrl": "https://github.com/mmediachannels/icon/blob/main/logo.png?raw=true",
+      "streamUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4"
     },
     {
       "id": 3,
-      "name": "MITV",
-      "imageUrl": "https://github.com/koarkarphyoe/img/blob/main/channel%20logo.png?raw=true",
-      "streamUrl": "https://playback2.akamaized.net/streams/7063221_9340397_lsiuruavepkdugqu1fp_1/master.m3u8?dw=14400&hdnts=exp=1647247803~acl=/streams/7063221_9340397_lsiuruavepkdugqu1fp_1/master.m3u8*~hmac=5180d87b7422be993e93fdc0127dec0738e6b5955ed352d2739fae994c5d0397"
+      "name": "BBE",
+      "imageUrl": "https://github.com/mmediachannels/icon/blob/main/logo.png?raw=true",
+      "streamUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4"
     },
     {
       "id": 4,
-      "name": "Channel K",
-      "imageUrl": "https://github.com/koarkarphyoe/img/blob/main/channel%20logo.png?raw=true",
-      "streamUrl": "https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8"
+      "name": "BEE",
+      "imageUrl": "https://github.com/mmediachannels/icon/blob/main/logo.png?raw=true",
+      "streamUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4"
     },
     {
       "id": 5,
-      "name": "MV Tv",
-      "imageUrl": "https://github.com/koarkarphyoe/img/blob/main/channel%20logo.png?raw=true",
-      "streamUrl": "https://edge6a.v2h-cdn.com/appt7/MVM.stream_720p/playlist.m3u8"
+      "name": "BEE",
+      "imageUrl": "https://github.com/mmediachannels/icon/blob/main/logo.png?raw=true",
+      "streamUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4"
     },
     {
       "id": 6,
-      "name": "HBO +",
-      "imageUrl": "https://github.com/koarkarphyoe/img/blob/main/channel%20logo.png?raw=true",
-      "streamUrl": "http://189.91.128.146:4444/udp/227.10.20.156:1234"
+      "name": "BBE",
+      "imageUrl": "https://github.com/mmediachannels/icon/blob/main/logo.png?raw=true",
+      "streamUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4"
     },
     {
       "id": 7,
-      "name": "Mahar",
-      "imageUrl": "https://github.com/koarkarphyoe/img/blob/main/channel%20logo.png?raw=true",
-      "streamUrl": "https://tv.mahar.live/mahar/website.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNC8yMDIyIDg6MzQ6NTggQU0maGFzaF92YWx1ZT1EQ0grU3VjV25WdGpTeS9aSXh3THFRPT0mdmFsaWRtaW51dGVzPTI1JnN0cm1fbGVuPTIw"
+      "name": "BEE",
+      "imageUrl": "https://github.com/mmediachannels/icon/blob/main/logo.png?raw=true",
+      "streamUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4"
     },
     {
       "id": 8,
-      "name": "HBO Family",
-      "imageUrl": "https://github.com/koarkarphyoe/img/blob/main/channel%20logo.png?raw=true",
-      "streamUrl": "http://189.91.128.146:4444/udp/227.10.20.157:1234"
+      "name": "BEE",
+      "imageUrl": "https://github.com/mmediachannels/icon/blob/main/logo.png?raw=true",
+      "streamUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4"
     },
     {
       "id": 9,
-      "name": "HBO Signature",
-      "imageUrl": "https://github.com/koarkarphyoe/img/blob/main/channel%20logo.png?raw=true",
-      "streamUrl": "http://189.91.128.146:4444/udp/227.10.20.158:1234"
+      "name": "BBE",
+      "imageUrl": "https://github.com/mmediachannels/icon/blob/main/logo.png?raw=true",
+      "streamUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4"
     },
     {
       "id": 10,
-      "name": "ESPN2",
-      "imageUrl": "https://github.com/koarkarphyoe/img/blob/main/channel%20logo.png?raw=true",
-      "streamUrl": "http://189.91.128.146:4444/udp/227.10.20.152:1234"
+      "name": "BEE",
+      "imageUrl": "https://github.com/mmediachannels/icon/blob/main/logo.png?raw=true",
+      "streamUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4"
     },
     {
       "id": 11,
-      "name": "ESPN",
-      "imageUrl": "https://github.com/koarkarphyoe/img/blob/main/channel%20logo.png?raw=true",
-      "streamUrl": "http://189.91.128.146:4444/udp/227.10.20.153:1234"
-    },
-    {
-      "id": 12,
-      "name": "DiscoveryTurbo",
-      "imageUrl": "https://github.com/koarkarphyoe/img/blob/main/channel%20logo.png?raw=true",
-      "streamUrl": "http://189.91.128.146:4444/udp/227.10.20.82:1234"
-    }
-    ,
-    {
-      "id": 13,
-      "name": "DiscoveryScience",
-      "imageUrl": "https://github.com/koarkarphyoe/img/blob/main/channel%20logo.png?raw=true",
-      "streamUrl": "http://189.91.128.146:4444/udp/227.10.20.92:1234"
-    }
-    ,
-    {
-      "id": 14,
-      "name": "AnimalPlanet",
-      "imageUrl": "https://github.com/koarkarphyoe/img/blob/main/channel%20logo.png?raw=true",
-      "streamUrl": "http://189.91.128.146:4444/udp/227.10.20.118:1234"
-    },
-    {
-      "id": 15,
-      "name": "ThairathTV15",
-      "imageUrl": "https://github.com/koarkarphyoe/img/blob/main/channel%20logo.png?raw=true",
-      "streamUrl": "https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_asian_network/bbc_asian_network.isml/bbc_asian_network-audio%3d48000.m3u8"
-    },
-    {
-      "id": 16,
-      "name": "ThairathTV16",
-      "imageUrl": "https://github.com/koarkarphyoe/img/blob/main/channel%20logo.png?raw=true",
-      "streamUrl": "https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_asian_network/bbc_asian_network.isml/bbc_asian_network-audio%3d48000.m3u8"
-    },
-    {
-      "id": 17,
-      "name": "ThairathTV17",
-      "imageUrl": "https://github.com/koarkarphyoe/img/blob/main/channel%20logo.png?raw=true",
-      "streamUrl": "https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_asian_network/bbc_asian_network.isml/bbc_asian_network-audio%3d48000.m3u8"
+      "name": "BEE",
+      "imageUrl": "https://github.com/mmediachannels/icon/blob/main/logo.png?raw=true",
+      "streamUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4"
     }
   ]
 }
