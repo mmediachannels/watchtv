@@ -2,15 +2,15 @@
   "livetv": [
      {
       "id": 0,
-      "name": "BBE",
+      "name": "DVB",
       "imageUrl": "https://github.com/mmediachannels/icon/blob/main/logo.png?raw=true",
-      "streamUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4"
+      "streamUrl": "https://stream-04.sg1.dailymotion.com/sec(kBDwkJsL9-oSpBjjjrqeeCV2CGEz3n7GDFdWt_jqpWc)/dm/3/x852wwl/s/live-0.m3u8#cell=lsg1"
     },
     {
       "id": 1,
-      "name": "BEE",
+      "name": "MNTV",
       "imageUrl": "https://github.com/mmediachannels/icon/blob/main/logo.png?raw=true",
-      "streamUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4"
+      "streamUrl": "https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC81LzIwMjIgMzozMDowNiBBTSZoYXNoX3ZhbHVlPXZjNjdYYkRPZTFYbkRRSnRWZEtZOWc9PSZ2YWxpZG1pbnV0ZXM9MjUmc3RybV9sZW49MTQ="
     },
     {
       "id": 2,
