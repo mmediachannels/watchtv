@@ -14,9 +14,9 @@
     },
     {
       "id": 2,
-      "name": "BEE",
+      "name": "MITV",
       "imageUrl": "https://github.com/mmediachannels/icon/blob/main/logo.png?raw=true",
-      "streamUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4"
+      "streamUrl": "https://player-api.new.livestream.com/accounts/7063221/events/9340397/videos/225348887.secure.m3u8?token=624bbb62_1f97c2eba256a65d4b70aa8dfdabd51e102be7ca"
     },
     {
       "id": 3,
